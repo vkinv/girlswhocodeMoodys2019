@@ -1,0 +1,175 @@
+[
+  {
+    "color": "blue",
+    "state": "",
+    "pets": "",
+    "gender": ""
+  },
+  {
+    "color": "vd",
+    "state": "",
+    "pets": "d",
+    
+    "gender": "d"
+  },
+  {
+    "name": "s",
+    "last name": "s",
+    "age": "s",
+    "birthday": "s",
+    "phone amount": "s"
+  },
+  {
+    "name": "akina",
+    "last name": "huey",
+    "age": "16",
+    "birthday": "11/28/02",
+    "phone amount": "often"
+  },
+  {
+    "color": "blue",
+    "state": "california",
+    "pets": "yes",
+    "gender": "female"
+  },
+  {
+    "name": "hannah",
+    "last name": "alaniz",
+    "age": "17",
+    "birthday": "03/01/02",
+    "phone amount": "often"
+  },
+  {
+    "color": "green",
+    "state": "california",
+    "pets": "yes",
+    "gender": "female"
+  },
+  {
+    "name": "akina",
+    "last name": "huey",
+    "age": "9",
+    "birthday": "11/02/09",
+    "phone amount": "average"
+  },
+  {
+    "name": "akina",
+    "last name": "huey",
+    "age": "16",
+    "birthday": "11/28/02",
+    "phone amount": "often"
+  },
+  {
+    "name": "",
+    "last name": "",
+    "age": "",
+    "birthday": "",
+    "phone amount": ""
+  },
+  {
+    "name": "k",
+    "last name": "d",
+    "age": "d",
+    "birthday": "d",
+    "phone amount": "d"
+  },
+  {
+    "name": "",
+    "last name": "",
+    "age": "",
+    "birthday": "",
+    "phone amount": ""
+  },
+  {
+    "name": "",
+    "last name": "",
+    "age": "",
+    "birthday": "",
+    "phone amount": ""
+  },
+  {
+    "name": "",
+    "last name": "",
+    "age": "",
+    "birthday": "",
+    "phone amount": ""
+  },
+  {
+    "name": "",
+    "last name": "",
+    "age": "",
+    "birthday": "",
+    "phone amount": ""
+  },
+  {
+    "color": "",
+    "state": "",
+    "pets": "",
+    "gender": ""
+  },
+  {
+    "name": "",
+    "last name": "",
+    "age": "",
+    "birthday": "",
+    "phone amount": ""
+  },
+  {
+    "color": "",
+    "state": "",
+    "pets": "",
+    "gender": ""
+  },
+  {
+    "name": "",
+    "last name": "",
+    "age": "",
+    "birthday": "",
+    "phone amount": ""
+  },
+  {
+    "color": "",
+    "state": "",
+    "pets": "",
+    "gender": ""
+  },
+  {
+    "name": "",
+    "last name": "",
+    "age": "",
+    "birthday": "",
+    "phone amount": ""
+  },
+  {
+    "color": "",
+    "state": "",
+    "pets": "",
+    "gender": ""
+  },
+  {
+    "name": "dessirae",
+    "last name": "grant",
+    "age": "16",
+    "birthday": "02/04/03",
+    "phone amount": "often"
+  },
+  {
+    "color": "pink",
+    "state": "california",
+    "pets": "no",
+    "gender": "female"
+  },
+  {
+    "name": "akina",
+    "last name": "huey",
+    "age": "16",
+    "birthday": "11/28/02",
+    "phone amount": "often"
+  },
+  {
+    "color": "blue",
+    "state": "california",
+    "pets": "yes",
+    "gender": "female"
+  }
+]
