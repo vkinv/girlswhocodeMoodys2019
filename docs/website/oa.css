@@ -1,0 +1,69 @@
+h1{
+  font-size: 60px;
+  padding-left: 25px;
+  color: black;
+}
+
+h2{
+  padding-left: 25px;
+  font-size: 35px;
+  color: black;
+}
+p{
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 35px;
+  padding: 25px;
+  color: Black;
+}
+
+.topnav {
+  background-color: #34495E;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #FDFEFE  ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #FDFEFE ;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color:#34495E ;
+  color:#FDFEFE   ;
+}
+body{
+  background-image: url("https://texascounterfitters.com/wp-content/uploads/2018/03/Marble-background-2-1-1.jpg");
+  margin: 0;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #FDFEFE  ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #FDFEFE ;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color:#34495E ;
+  color:#FDFEFE   ;
+}
