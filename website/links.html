@@ -1,0 +1,212 @@
+<DOCTYPE <!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Links</title>
+
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Julius Sans One' rel='stylesheet'>
+<link rel="stylesheet" href="link2.css">
+<!-- <link rel="script" href="link3.js"> -->
+
+<style>
+body {
+    font-family:'Julius Sans One';font-size: 22px;
+}
+</style>
+
+</head>
+
+<body>
+  <div class="topnav">
+    <a  href="Home.html"><i class="fa fa-fw fa-home"></i> Home</a>
+    <a href="Our Ambition.html"><i class="fa fa-fw fa-diamond"></i> Our Ambition</a>
+    <a href="game.html"><i class="fa fa-fw fa-gamepad"></i> Game</a>
+     <a class="active" href="links.html"><i class="fa fa-fw fa-link"></i> Links</a>
+      <a href="Facts.html"><i class="fa fa-fw fa-bar-chart"></i> Facts</a>
+   <a href="About Us.html"><i class="fa fa-fw fa-user-circle"></i> About Us</a>
+  </div>
+
+
+
+<h1 align="center">Links</h1>
+
+<p align="center">
+  <a href="https://www.imperfectproduce.com/join/?gclid=Cj0KCQjwjrvpBRC0ARIsAFrFuV_7dici4AuFyw1ye_RSGqZlC5E-GN4aX1vDTVyUmk3CBiY4eIO41VMaAripEALw_wcB" target="_blank">
+    <font size= 15px></font>
+    Imperfect Produce
+  </a>
+</p>
+
+
+
+
+
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <div class="numbertext">1 / 8</div>
+    <img src="capture.jpg" style="width:100%">
+
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">2 / 8</div>
+    <img src="Capture2.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">3 / 8</div>
+    <img src="Capture3.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">4 / 8</div>
+    <img src="capture4.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">5 / 8</div>
+    <img src="capture5.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext"> 6/ 8</div>
+    <img src="capture6.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">7 / 8</div>
+    <img src="capture7.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <div class="numbertext">8 / 8</div>
+    <img src="capture8.jpg" style="width:100%">
+  </div>
+
+
+  <!-- Next and previous buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick=currentSlide(1)></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+<span class="dot" onclick="currentSlide(7)"></span>
+<span class="dot" onclick="currentSlide(8)"></span>
+</div>
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+
+<p align="center">
+  <a href="https://foodispower.org/access-health/food-deserts/ " target="_blank">
+  <font size= 15px></font>
+    Food Deserts
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.helpguide.org/articles/healthy-eating/organic-foods.htm" target="_blank">
+  <font size= 15px></font>
+    Organic Foods:What You Need To Know
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas" target="_blank">
+  <font size= 15px></font>
+    Food Desert Locations
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.moveforhunger.org/about-food-waste/" target="_blank">
+  <font size= 15px></font>
+    Food Waste
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.localharvest.org/new-york-ny" target="_blank">
+  <font size= 15px></font>
+    Farmer's Market Finder
+  </a>
+</p>
+<p align="center">
+  <a href="http://www.foodnews.org/" target="_blank">
+  <font size= 15px></font>
+    Guide to Pesticides in Produce
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.redbookmag.com/body/healthy-eating/a2016/truth-about-organic-foods/" target="_blank">
+  <font size= 15px></font>
+    5 Things You Should Know About Organic Food
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.verywellhealth.com/what-are-food-deserts-4165971" target="_blank">
+  <font size= 15px></font>
+    What Are Food Deserts?
+  </a>
+</p>
+
+<script>
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the navbar
+var topnav = document.getElementById("topnav");
+
+// Get the offset position of the navbar
+var sticky = topnav.offsetTop;
+
+// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    topnav.classList.add("sticky")
+  } else {
+    topnav.classList.remove("sticky");
+  }
+}
+</script>
+
+
+
+
+</body>
