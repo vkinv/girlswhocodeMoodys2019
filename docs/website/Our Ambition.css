@@ -1,0 +1,81 @@
+
+h1{
+  font-size: 60px;
+  padding-left: 53px;
+  color: black;
+}
+
+h2{
+  padding-left: 25px;
+  font-size: 35px;
+  color: black;
+}
+p{
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 26px;
+  color: Black;
+  padding-right: 10px;
+  padding-top: 0px;
+
+}
+
+.topnav {
+  background-color: #34495E;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #FDFEFE  ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #FDFEFE ;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color:#34495E ;
+  color:#FDFEFE   ;
+}
+.topnav a {
+  float: left;
+  color: #FDFEFE  ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #FDFEFE ;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color:#34495E ;
+  color:#FDFEFE   ;
+}
+
+img {
+  float: left;
+  width: 50%;
+  margin-top: 0px;
+  padding-left: 0px;
+  padding-right: 15px;
+
+}
+
+body{
+  margin: 0px;
+  font-family:'Julius Sans One';font-size: 80px;
+}

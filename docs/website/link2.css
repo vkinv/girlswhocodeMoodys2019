@@ -127,3 +127,10 @@ body{
   from {opacity: .4}
   to {opacity: 1}
 }
+h1{
+  font-size: 60px;
+}
+.footer {
+  padding: 10px;
+  text-align: center;
+}

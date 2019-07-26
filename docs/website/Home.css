@@ -1,0 +1,136 @@
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+/* Top left text */
+.Top-left {
+    position: absolute;
+  top: 8px;
+  left: 16px;
+}
+img {
+margin:0!important;
+padding:0!important;
+border:0!important;
+}
+
+body{
+  margin-top: 0
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #34495E;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #FDFEFE  ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #FDFEFE ;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color:#34495E ;
+  color:#FDFEFE   ;
+}
+.d-flex {
+    display: -webkit-box!important;
+    display: -ms-flexbox!important;
+    display: flex!important;
+}
+@media (max-width: 991.98px)
+.site-block-half .bg-image {
+    height: 400px;
+}
+.site-block-half .bg-image {
+    background-position: center center;
+}
+@media (max-width: 991.98px)
+.site-block-half .image {
+    margin-bottom: 50px;
+}
+.site-block-half .image, .site-block-half .text {
+    width: 100%;
+}
+.bg-image {
+    background-size: cover;
+    background-repeat: no-rpeeat;
+    overflow: hidden;
+    background-position: center center;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+div {
+    display: block;
+}
+.mb-5{
+  font-size: 23px;
+}
+.mb-5, .my-5 {
+    margin-bottom: 3rem!important;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+h2{
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: inherit;
+  font-size: 35px;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: inherit;
+
+}
+.caption{
+  font-size: 10px;
+}
+.text-primary {
+    color: #87e5da!important;
+}
+.pl-0, .px-0 {
+    padding-left: 0!important;
+}
+.mb-4, .my-4 {
+    margin-bottom: 1.5rem!important;
+}
+.d-block {
+    display: block!important;
+}
+.footer {
+  padding: 10px;
+  text-align: center;
+}

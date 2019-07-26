@@ -1,5 +1,6 @@
 body{
   margin: 0;
+  background: url("https://images.all-free-download.com/images/graphiclarge/bamboo_leaves_background_green_repeating_handdrawn_icons_6832193.jpg")
 }
 
 
@@ -29,9 +30,20 @@ body{
   background-color:#34495E ;
   color:#FDFEFE   ;
 }
-.instructions{
-  margin-left: 10px;
-  padding-left: 30px;
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+h1{
+  text-align: center;
+  font-size: 80px !important;
+}
+.image{
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .footer {
   padding: 10px;
